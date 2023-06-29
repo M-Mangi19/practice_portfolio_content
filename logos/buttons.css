@@ -1,0 +1,37 @@
+.buttons 
+    {
+        display: block;
+    }
+button 
+    {
+        background-color: white;
+        color: turquoise;
+        text-align: center;
+        font-size: 15px;
+        border: 2px solid turquoise;
+        border-radius: 12px;
+        height: 30px;
+        width: 150px;
+        margin: 20px; 
+    }
+
+.additionbutton 
+    {
+        background-color: turquoise;
+        color: white;
+        border-radius: 50%;
+        width: 30px;
+        height: 30px;
+    }
+
+.createaccount
+    {
+        background-color: blue;
+        color: white;
+        border: 2px solid black;
+        border-radius: 0%;
+        box-shadow: 3px 3px black;
+        height: 50px;
+        width: 200px;
+
+    }
